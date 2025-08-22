@@ -36,7 +36,7 @@ project-folder/
 3. Abre `index.html` en tu navegador.
 
 ```bash
-git clone https://github.com/CRISTIAN7712/3D-Card-Hover-Efect-HTML-CSS.git
+git clone https://github.com/FreddyR03/3D-Card-Hover-Efect-HTML-CSS/edit/main/README.md
 cd 3d-card-hover
 ```
 
